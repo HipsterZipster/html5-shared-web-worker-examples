@@ -17,7 +17,8 @@
     "qwery": "3.x",
     "bean": "0.4.x"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {},
   "optionalDependencies": {}
 }
