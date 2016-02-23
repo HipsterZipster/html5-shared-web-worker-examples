@@ -18,6 +18,9 @@
     "bean": "0.4.x"
   },
   "dependencies": {
+    "pakmanager": "0.12.1",
+    "jade": "1.1.x",
+    "html2jade": "0.8.x"
   },
   "devDependencies": {},
   "optionalDependencies": {}
